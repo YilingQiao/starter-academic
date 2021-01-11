@@ -16,7 +16,6 @@ abstract: Differentiable physics is a powerful approach to learning and control
   outperforms derivative-free and model-free baselines by at least an order of
   magnitude.
 slides: ""
-code: "https://github.com/YilingQiao/diffsim"
 url_pdf: ""
 publication_types:
   - "1"
@@ -46,7 +45,7 @@ date: 2013-07-01T00:00:00Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
-url_code: ""
+url_code: "https://github.com/YilingQiao/diffsim"
 ---
 
 {{% callout note %}}
