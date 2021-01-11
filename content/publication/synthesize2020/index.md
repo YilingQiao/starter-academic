@@ -6,11 +6,11 @@ publication_types:
   - "1"
 authors:
   - Yi-Ling Qiao
-  - Junbang Liang
-  - Vladlen Koltun
-  - Ming C. Lin
+  - Yu-Kun Lai
+  - Hongbo Fu
+  - Lin Gao
 author_notes: []
-publication: In ICML 2020
+publication: In TVCG 2020
 summary: ""
 url_dataset: ""
 url_project: ""
