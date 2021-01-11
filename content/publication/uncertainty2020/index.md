@@ -17,8 +17,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: Uncertainty Quantification for Semi-supervised Multi-class Classification in Image Processing and Ego-Motion
-Analysis of Body-Worn Videos
+title: Uncertainty Quantification for Semi-supervised Multi-class Classification in Image Processing and Ego-Motion Analysis of Body-Worn Videos
 doi: ""
 featured: false
 tags: []

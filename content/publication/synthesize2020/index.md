@@ -19,7 +19,7 @@ url_source: ""
 url_video: ""
 title: Synthesizing Mesh Deformation Sequences with Bidirectional LSTM
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:
