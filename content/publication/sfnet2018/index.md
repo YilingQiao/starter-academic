@@ -1,27 +1,25 @@
 ---
 abstract: 
 slides: ""
-url_pdf: "https://escholarship.org/uc/item/3w93d39s"
+url_pdf: "http://bmvc2018.org/contents/papers/1095.pdf"
 publication_types:
   - "1"
 authors:
   - Yi-Ling Qiao
-  - Chang Shi
-  - Chenjian Wang
-  - Hao Li
-  - Matt Haberland
-  - Xiyang Luo
-  - Andrew M. Stuart
-  - Andrea L. Bertozzi
+  - Lin Gao
+  - Yu-Kun Lai
+  - Fang-Lue Zhang
+  - Ming-Ze Yuan
+  - Shihong Xia
 author_notes: []
-publication: In Electronic Imaging 2019
+publication: In BMVC 2018
 summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: Uncertainty Quantification for Semi-supervised Multi-class Classification in Image Processing and Ego-Motion Analysis of Body-Worn Videos
+title: SF-Net: Learning Scene Flow from RGB-D Images with CNNs
 doi: ""
 featured: false
 tags: []
@@ -30,9 +28,9 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2019-02-01T00:00:00Z
+date: 2018-10-01T00:00:00Z
 url_slides: ""
-publishDate: 2019-02-01T00:00:00Z
+publishDate: 2018-10-01T00:00:00Z
 url_poster: ""
 url_code: ""
 ---

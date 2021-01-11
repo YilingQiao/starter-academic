@@ -29,9 +29,9 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 
+date: 2018-12-01T00:00:00Z
 url_slides: ""
-publishDate: 
+publishDate: 2018-12-01T00:00:00Z
 url_poster: ""
 url_code: "https://github.com/gaolinorange/Automatic-Unpaired-Shape-Deformation-Transfer.git"
 ---

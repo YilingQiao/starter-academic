@@ -26,9 +26,9 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 
+date: 2019-10-01T00:00:00Z
 url_slides: ""
-publishDate: 
+publishDate: 2019-10-01T00:00:00Z
 url_poster: ""
 url_code: ""
 ---

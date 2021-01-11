@@ -1,5 +1,5 @@
 ---
-abstract: 
+abstract: 3D models are commonly used in computer vision and graphics. With the wider availability of mesh data, an efficient and intrinsic deep learning approach to processing 3D meshes is in great need. Unlike images, 3D meshes have irregular connectivity, requiring careful design to capture relations in the data. To utilize the topology information while staying robust under different triangulations, we propose to encode mesh connectivity using Laplacian spectral analysis, along with mesh feature aggregation blocks (MFABs) that can split the surface domain into local pooling patches and aggregate global information amongst them. We build a mesh hierarchy from fine to coarse using Laplacian spectral clustering, which is flexible under isometric transformations. Inside the MFABs there are pooling layers to collect local information and multi-layer perceptrons to compute vertex features of increasing complexity. To obtain the relationships among different clusters, we introduce a Correlation Net to compute a correlation matrix, which can aggregate the features globally by matrix multiplication with cluster features. Our network architecture is flexible enough to be used on meshes with different numbers of vertices. We conduct several experiments including shape segmentation and classification, and our method outperforms state-of-the-art algorithms for these tasks on the ShapeNet and COSEG datasets. 
 slides: ""
 url_pdf: "https://www.computer.org/csdl/journal/tg/5555/01/09159927/1m3m77L2v3a"
 publication_types:
@@ -21,16 +21,16 @@ url_source: ""
 url_video: ""
 title: Learning on 3D Meshes with Laplacian Encoding and Pooling
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 
+date: 2020-01-01T00:00:00Z
 url_slides: ""
-publishDate: 
+publishDate: 2020-01-01T00:00:00Z
 url_poster: ""
 url_code: "https://github.com/YilingQiao/lapcluster.git"
 ---
