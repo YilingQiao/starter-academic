@@ -1,44 +1,37 @@
 ---
 title: Yi-Ling Qiao
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+role: Ph.D. Student
+avatar_filename: photo_yilingq.jpg
+bio: ""
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: yilingq@umd.edu
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=ghpLm2cAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/YilingQiao
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of Maryland, College Park
+    url: https://umd.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Graduate Student in Computer Science
+      institution: The University of Maryland, College Park
+      year: 2024
+    - course: B.Eng. in Computer Science
+      institution: University of Chinese Academy of Sciences
+      year: 2019
+    - course: B.S. in Mathematics and Applied Mathematics
+      institution: University of Chinese Academy of Sciences
+      year: 2019
 email: ""
 superuser: true
 highlight_name: false
 ---
-Bio
+I am Yi-Ling Qiao, a second-year Ph.D. student in [UMD GAMMA Group ](https://gamma.umd.edu/)advised by [Prof. Ming Lin ](https://www.cs.umd.edu/~lin/)at University of Maryland, College Park.
+
+My research interests lie in Physically-based simulation and machine learning.
