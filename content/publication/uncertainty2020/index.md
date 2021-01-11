@@ -1,22 +1,7 @@
 ---
-abstract: Differentiable physics is a powerful approach to learning and control
-  problems that involve physical objects and environments. While notable
-  progress has been made, the capabilities of differentiable physics solvers
-  remain limited. We develop a scalable framework for differentiable physics
-  that can support a large number of objects and their interactions. To
-  accommodate objects with arbitrary geometry and topology, we adopt meshes as
-  our representation and leverage the sparsity of contacts for scalable
-  differentiable collision handling. Collisions are resolved in localized
-  regions to minimize the number of optimization variables even when the number
-  of simulated objects is high. We further accelerate implicit differentiation
-  of optimization with nonlinear constraints. Experiments demonstrate that the
-  presented framework requires up to two orders of magnitude less memory and
-  computation in comparison to recent particle-based methods. We further
-  validate the approach on inverse problems and control scenarios, where it
-  outperforms derivative-free and model-free baselines by at least an order of
-  magnitude.
+abstract: 
 slides: ""
-url_pdf: "https://arxiv.org/abs/2007.02168"
+url_pdf: "https://escholarship.org/uc/item/3w93d39s"
 publication_types:
   - "1"
 authors:
@@ -32,20 +17,21 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: Scalable Differentiable Physics for Learning and Control
+title: Uncertainty Quantification for Semi-supervised Multi-class Classification in Image Processing and Ego-Motion
+Analysis of Body-Worn Videos
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00Z
+date: 
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 
 url_poster: ""
-url_code: "https://github.com/YilingQiao/diffsim"
+url_code: ""
 ---
 
 {{% callout note %}}

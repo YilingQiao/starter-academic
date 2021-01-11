@@ -1,31 +1,19 @@
 ---
-abstract: Differentiable physics is a powerful approach to learning and control
-  problems that involve physical objects and environments. While notable
-  progress has been made, the capabilities of differentiable physics solvers
-  remain limited. We develop a scalable framework for differentiable physics
-  that can support a large number of objects and their interactions. To
-  accommodate objects with arbitrary geometry and topology, we adopt meshes as
-  our representation and leverage the sparsity of contacts for scalable
-  differentiable collision handling. Collisions are resolved in localized
-  regions to minimize the number of optimization variables even when the number
-  of simulated objects is high. We further accelerate implicit differentiation
-  of optimization with nonlinear constraints. Experiments demonstrate that the
-  presented framework requires up to two orders of magnitude less memory and
-  computation in comparison to recent particle-based methods. We further
-  validate the approach on inverse problems and control scenarios, where it
-  outperforms derivative-free and model-free baselines by at least an order of
-  magnitude.
+abstract: 
 slides: ""
 url_pdf: "https://dl.acm.org/doi/10.1145/3272127.3275028"
 publication_types:
   - "1"
 authors:
+  - Lin Gao
+  - Jie Yang
   - Yi-Ling Qiao
-  - Junbang Liang
-  - Vladlen Koltun
-  - Ming C. Lin
+  - Yu-Kun Lai
+  - Paul L. Rosin
+  - Weiwei Xu
+  - Shihong Xia
 author_notes: []
-publication: In ICML 2020
+publication: In SIGGRAPH Asia 2018
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -45,7 +33,7 @@ date:
 url_slides: ""
 publishDate: 
 url_poster: ""
-url_code: "https://github.com/YilingQiao/diffsim"
+url_code: "https://github.com/gaolinorange/Automatic-Unpaired-Shape-Deformation-Transfer.git"
 ---
 
 {{% callout note %}}
