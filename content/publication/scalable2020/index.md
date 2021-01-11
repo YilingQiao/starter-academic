@@ -16,7 +16,7 @@ abstract: Differentiable physics is a powerful approach to learning and control
   outperforms derivative-free and model-free baselines by at least an order of
   magnitude.
 slides: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/abs/2007.02168"
 publication_types:
   - "1"
 authors:
