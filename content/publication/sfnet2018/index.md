@@ -19,7 +19,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: SF-Net: Learning Scene Flow from RGB-D Images with CNNs
+title: SF-Net Learning Scene Flow from RGB-D Images with CNNs
 doi: ""
 featured: false
 tags: []
