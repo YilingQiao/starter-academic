@@ -19,9 +19,6 @@ organizations:
     url: https://umd.edu/
 education:
   courses:
-    - course: Graduate Student in Computer Science
-      institution: The University of Maryland, College Park
-      year: 2024
     - course: B.Eng. in Computer Science
       institution: University of Chinese Academy of Sciences
       year: 2019
