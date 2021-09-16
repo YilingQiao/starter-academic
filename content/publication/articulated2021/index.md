@@ -25,7 +25,7 @@ projects: []
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 date: 2021-07-01T00:00:00Z
 url_slides: ""
 publishDate: 2021-07-01T00:00:00Z
