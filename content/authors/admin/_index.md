@@ -14,12 +14,15 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/YilingQiao
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/yi-ling-qiao-052214113/
 organizations:
   - name: The University of Maryland, College Park
     url: https://umd.edu/
 education:
   courses:
-    - course: Ph.D. student in Computer Science
+    - course: Ph.D. Student in Computer Science
       institution: University of Maryland, College Park
       year: 2019 - present
     - course: B.Eng. in Computer Science
