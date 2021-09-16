@@ -31,7 +31,7 @@ url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
-url_video: ""
+url_video: "https://icml.cc/virtual/2020/poster/5767"
 title: Scalable Differentiable Physics for Learning and Control
 doi: ""
 featured: false

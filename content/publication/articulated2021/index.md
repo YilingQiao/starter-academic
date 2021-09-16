@@ -16,7 +16,7 @@ url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
-url_video: ""
+url_video: "https://icml.cc/virtual/2021/poster/9049"
 title: Efficient Differentiable Simulation of Articulated Bodies
 doi: ""
 featured: false
@@ -27,7 +27,7 @@ image:
   focal_point: ""
   preview_only: false
 date: 2021-07-01T00:00:00Z
-url_slides: ""
+url_slides: "https://icml.cc/media/icml-2021/Slides/9049.pdf"
 publishDate: 2021-07-01T00:00:00Z
 url_poster: ""
 url_code: "https://github.com/YilingQiao/diffarticulated"

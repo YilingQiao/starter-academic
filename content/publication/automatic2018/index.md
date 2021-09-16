@@ -16,10 +16,10 @@ author_notes: []
 publication: In SIGGRAPH Asia 2018
 summary: ""
 url_dataset: ""
-url_project: ""
+url_project: "http://geometrylearning.com/ausdt/"
 publication_short: ""
 url_source: ""
-url_video: ""
+url_video: "https://youtu.be/IqOZ0FwC8vQ"
 title: Automatic Unpaired Shape Deformation Transfer
 doi: ""
 featured: false
@@ -33,7 +33,7 @@ date: 2018-12-01T00:00:00Z
 url_slides: ""
 publishDate: 2018-12-01T00:00:00Z
 url_poster: ""
-url_code: "https://github.com/gaolinorange/Automatic-Unpaired-Shape-Deformation-Transfer.git"
+url_code: "https://github.com/gaolinorange/Automatic-Unpaired-Shape-Deformation-Transfer"
 ---
 
 {{% callout note %}}
