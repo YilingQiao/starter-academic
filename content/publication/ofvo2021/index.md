@@ -5,7 +5,7 @@ url_pdf: "https://arxiv.org/abs/2004.10976"
 publication_types:
   - "1"
 authors:
-  - Jing Liang, 
+  - Jing Liang 
   - Yi-Ling Qiao
   - Tianrui Guan
   - Dinesh Manocha

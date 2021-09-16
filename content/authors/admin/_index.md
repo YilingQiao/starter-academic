@@ -37,4 +37,4 @@ highlight_name: false
 ---
 I am Yi-Ling Qiao, a third-year Ph.D. student in [UMD GAMMA Group ](https://gamma.umd.edu/)advised by [Prof. Ming C. Lin ](https://www.cs.umd.edu/~lin/)at University of Maryland, College Park.
 
-My research interests lie in Physically-based simulation and machine learning.
+My research interests lie in physically-based simulation and machine learning.
