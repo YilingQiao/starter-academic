@@ -19,7 +19,7 @@ url_source: ""
 url_video: ""
 title: Efficient Differentiable Simulation of Articulated Bodies
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:

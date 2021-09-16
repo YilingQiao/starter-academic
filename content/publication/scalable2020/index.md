@@ -34,7 +34,7 @@ url_source: ""
 url_video: ""
 title: Scalable Differentiable Physics for Learning and Control
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:

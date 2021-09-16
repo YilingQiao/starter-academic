@@ -19,7 +19,7 @@ url_source: ""
 url_video: ""
 title: OF-VO{:} Efficient Navigation among Pedestrians Using Commodity Sensors
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:

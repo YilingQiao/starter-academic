@@ -22,7 +22,7 @@ url_source: ""
 url_video: ""
 title: Automatic Unpaired Shape Deformation Transfer
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:
