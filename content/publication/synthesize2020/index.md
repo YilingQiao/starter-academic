@@ -10,7 +10,7 @@ authors:
   - Hongbo Fu
   - Lin Gao
 author_notes: []
-publication: In TVCG 2020
+publication: IEEE Transactions on Visualization and Computer Graphics
 summary: ""
 url_dataset: ""
 url_project: ""

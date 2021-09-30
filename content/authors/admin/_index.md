@@ -25,7 +25,7 @@ education:
     - course: Ph.D. Student in Computer Science
       institution: University of Maryland, College Park
       year: 2019 - present
-    - course: B.Eng. in Computer Science
+    - course: B.E. in Computer Science
       institution: University of Chinese Academy of Sciences
       year: 2015 - 2019
     - course: B.S. in Mathematics and Applied Mathematics

@@ -12,7 +12,7 @@ authors:
   - Yu-Kun Lai
   - Xilin Chen
 author_notes: []
-publication: In TVCG 2020
+publication: IEEE Transactions on Visualization and Computer Graphics
 summary: ""
 url_dataset: ""
 url_project: ""
