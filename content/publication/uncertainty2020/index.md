@@ -1,5 +1,5 @@
 ---
-abstract: 
+abstract: Semi-supervised  learning  uses  underlying  relationships  indata with a scarcity of ground-truth labels. In this paper, we intro-duce an uncertainty quantification (UQ) method for graph-basedsemi-supervised multi-class classification problems.  We not onlypredict the class label for each data point, but also provide a con-fidence score for the prediction.  We adopt a Bayesian approachand propose a graphical multi-class probit model together withan effective Gibbs sampling procedure. Furthermore, we proposea confidence measure for each data point that correlates with theclassification  performance.   We  use  the  empirical  properties  ofthe proposed confidence measure to guide the design of a human-in-the-loop system. The uncertainty quantification algorithm andthe human-in-the-loop system are successfully applied to classifi-cation problems in image processing and ego-motion analysis ofbody-worn videos
 slides: ""
 url_pdf: "https://escholarship.org/uc/item/3w93d39s"
 publication_types:
