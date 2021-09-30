@@ -1,5 +1,5 @@
 ---
-abstract: 
+abstract: We present a modified velocity-obstacle (VO) algorithm that uses probabilistic partial observations of the environment to compute velocities and navigate a robot to a target. Our system uses commodity visual sensors, including a mono-camera and a 2D Lidar, to explicitly predict the velocities and positions of surrounding obstacles through optical flow estimation, object detection, and sensor fusion. A key aspect of our work is coupling the perception (OF, optical flow) and planning (VO) components for reliable navigation. Overall, our OF-VO algorithm using learning-based perception and model-based planning methods offers better performance than prior algorithms in terms of navigation time and success rate of collision avoidance. Our method also provides bounds on the probabilistic collision avoidance algorithm. We highlight the realtime performance of OF-VO on a Turtlebot navigating among pedestrians in both simulated and real-world scenes.
 slides: ""
 url_pdf: "https://arxiv.org/abs/2004.10976"
 publication_types:
