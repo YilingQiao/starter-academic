@@ -10,7 +10,7 @@ authors:
   - Tianrui Guan
   - Dinesh Manocha
 author_notes: []
-publication: In ICRA/RAL 2021
+publication: IEEE Robotics and Automation Letters (ICRA/RAL 2021)
 summary: ""
 url_dataset: ""
 url_project: ""

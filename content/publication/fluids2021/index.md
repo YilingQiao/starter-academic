@@ -10,7 +10,7 @@ authors:
   - Yi-Ling Qiao 
   - Ming C. Lin
 author_notes: []
-publication: In AAAI 2021
+publication: AAAI Conference on Artificial Intelligence (AAAI 2021)
 summary: ""
 url_dataset: ""
 url_project: ""

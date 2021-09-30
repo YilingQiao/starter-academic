@@ -10,7 +10,7 @@ authors:
   - Vladlen Koltun
   - Ming C. Lin
 author_notes: []
-publication: In ICML 2020
+publication: International Conference on Machine Learning (ICML 2020)
 summary: ""
 url_dataset: ""
 url_project: ""

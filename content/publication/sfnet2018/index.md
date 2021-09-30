@@ -12,7 +12,7 @@ authors:
   - Ming-Ze Yuan
   - Shihong Xia
 author_notes: []
-publication: In BMVC 2018
+publication: The British Machine Vision Conference (BMVC 2018) 
 summary: ""
 url_dataset: ""
 url_project: ""

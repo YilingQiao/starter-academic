@@ -14,7 +14,7 @@ authors:
   - Andrew M. Stuart
   - Andrea L. Bertozzi
 author_notes: []
-publication: In Electronic Imaging 2019
+publication: Electronic Imaging 2019
 summary: ""
 url_dataset: ""
 url_project: ""
