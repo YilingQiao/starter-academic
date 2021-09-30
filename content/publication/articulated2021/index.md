@@ -19,7 +19,7 @@ url_source: ""
 url_video: "https://icml.cc/virtual/2021/poster/9049"
 title: Efficient Differentiable Simulation of Articulated Bodies
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:

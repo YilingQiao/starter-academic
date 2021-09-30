@@ -19,7 +19,7 @@ url_source: ""
 url_video: ""
 title: Differentiable Simulation of Soft Multi-body Systems
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:
