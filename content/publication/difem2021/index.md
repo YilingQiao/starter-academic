@@ -1,7 +1,7 @@
 ---
 abstract: 
 slides: ""
-url_pdf: "http://proceedings.mlr.press/v139/qiao21a.html"
+url_pdf: ""
 publication_types:
   - "1"
 authors:
@@ -10,14 +10,14 @@ authors:
   - Vladlen Koltun
   - Ming C. Lin
 author_notes: []
-publication: International Conference on Machine Learning (ICML 2021)
+publication: Conference on Neural Information Processing Systems (NeurIPS 2021)
 summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
-url_video: "https://icml.cc/virtual/2021/poster/9049"
-title: Efficient Differentiable Simulation of Articulated Bodies
+url_video: ""
+title: Differentiable Simulation of Soft Multi-body Systems
 doi: ""
 featured: true
 tags: []
@@ -26,11 +26,11 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2021-07-01T00:00:00Z
-url_slides: "https://icml.cc/media/icml-2021/Slides/9049.pdf"
-publishDate: 2021-07-01T00:00:00Z
+date: 2021-10-01T00:00:00Z
+url_slides: ""
+publishDate: 2021-10-01T00:00:00Z
 url_poster: ""
-url_code: "https://github.com/YilingQiao/diffarticulated"
+url_code: ""
 ---
 
 {{% callout note %}}
