@@ -9,7 +9,7 @@ authors:
   - Junbang Liang
   - Vladlen Koltun
   - Ming C. Lin
-author_notes: [International Conference on Machine Learning (ICML 2021)]
+author_notes: []
 publication: International Conference on Machine Learning (ICML 2021)
 summary: ""
 url_dataset: ""
