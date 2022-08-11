@@ -10,7 +10,7 @@ authors:
   - Jason Sewall
   - Ming C. Lin
 author_notes: []
-publication: Accepted by Siggraph Asia 2022, Journal Track, Coming Soon
+publication: Conditionally Accepted by SIGGRAPH Asia 2022, Journal Track, Coming Soon
 summary: ""
 url_dataset: ""
 url_project: ""

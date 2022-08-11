@@ -35,6 +35,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am Yi-Ling Qiao, a fourth-year Ph.D. student in [UMD GAMMA Group ](https://gamma.umd.edu/)advised by [Prof. Ming C. Lin ](https://www.cs.umd.edu/~lin/)at University of Maryland, College Park.
+I am Yi-Ling Qiao, a third-year Ph.D. student in [UMD GAMMA Group ](https://gamma.umd.edu/)advised by [Prof. Ming C. Lin ](https://www.cs.umd.edu/~lin/)at University of Maryland, College Park.
 
 My research interests lie in physically-based simulation and machine learning.
