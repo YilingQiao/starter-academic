@@ -1,14 +1,16 @@
 ---
-abstract: Synthesizing realistic 3D mesh deformation sequences is a challenging but important task in computer animation. To achieve this, researchers have long been focusing on shape analysis to develop new interpolation and extrapolation techniques. However, such techniques have limited learning capabilities and therefore often produce unrealistic deformation. Although there are already networks defined on individual meshes, deep architectures that operate directly on mesh sequences with temporal information remain unexplored due to the following major barriers, irregular mesh connectivity, rich temporal information, and varied deformation. To address these issues, we utilize convolutional neural networks defined on triangular meshes along with a shape deformation representation to extract useful features, followed by long short-term memory (LSTM) that iteratively processes the features. To fully respect the bidirectional nature of actions, we propose a new share-weight bidirectional scheme to better synthesize deformations. An extensive evaluation shows that our approach outperforms existing methods in sequence generation, both qualitatively and quantitatively.
+abstract: Reflectional symmetry is a ubiquitous pattern in nature. Previous works usually solve this problem by voting or sampling, suffering from high computational cost and randomness. In this paper, we propose a learning-based approach to intrinsic reflectional symmetry detection. Instead of directly finding symmetric point pairs, we parametrize this self-isometry using a functional map matrix, which can be easily computed given the signs of Laplacian eigenfunctions under the symmetric mapping. Therefore, we manually label the eigenfunction signs for a variety of shapes and train a novel neural network to predict the sign of each eigenfunction under symmetry. Our network aims at learning the global property of functions and consequently converts the problem defined on the manifold to the functional domain. By disentangling the prediction of the matrix into separated bases, our method generalizes well to new shapes and is invariant under perturbation of eigenfunctions. Through extensive experiments, we demonstrate the robustness of our method in challenging cases, including different topology and incomplete shapes with holes. By avoiding random sampling, our learning-based algorithm is over 20 times faster than state-of-the-art methods, and meanwhile, is more robust, achieving higher correspondence accuracy in commonly used metrics.
 slides: ""
-url_pdf: "https://ieeexplore.ieee.org/document/9217964"
+url_pdf: "https://ieeexplore.ieee.org/document/9770416"
 publication_types:
   - "1"
 authors:
   - Yi-Ling Qiao
-  - Yu-Kun Lai
-  - Hongbo Fu
   - Lin Gao
+  - Shu-Zhi Liu
+  - Ligang Liu
+  - Yu-Kun Lai
+  - Xilin Chen
 author_notes: []
 publication: IEEE Transactions on Visualization and Computer Graphics
 summary: ""
@@ -17,7 +19,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: Synthesizing Mesh Deformation Sequences with Bidirectional LSTM
+title: Learning-based Intrinsic Reflectional Symmetry Detection
 doi: ""
 featured: false
 tags: []
@@ -26,11 +28,11 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2019-10-01T00:00:00Z
+date: 2020-05-01T00:00:00Z
 url_slides: ""
-publishDate: 2019-10-01T00:00:00Z
+publishDate: 2020-05-01T00:00:00Z
 url_poster: ""
-url_code: ""
+url_code: "https://github.com/YilingQiao/intrinsicSym"
 ---
 
 {{% callout note %}}
