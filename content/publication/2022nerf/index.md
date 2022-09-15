@@ -5,8 +5,8 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - Yi-Ling Qiao*
-  - Alexander Gao*
+  - Yi-Ling Qiao1
+  - Alexander Gao1
   - Ming C. Lin
 author_notes: []
 publication: Accepted by NeurIPS 2022, Coming Soon
