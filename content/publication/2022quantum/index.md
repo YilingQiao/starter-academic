@@ -5,9 +5,9 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - Jiaqi Leng*
-  - Yuxiang Peng*
-  - Yi-Ling Qiao*
+  - Jiaqi Leng
+  - Yuxiang Peng
+  - Yi-Ling Qiao
   - Ming C. Lin
   - Xiaodi Wu
 author_notes: []

@@ -6,7 +6,7 @@ publication_types:
   - "1"
 authors:
   - Sanghyun Son
-  - Yi-Ling Qiao 
+  - Yi-Ling Qiao
   - Jason Sewall
   - Ming C. Lin
 author_notes: []
