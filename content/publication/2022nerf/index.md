@@ -1,15 +1,13 @@
 ---
-abstract: We formulate the first differentiable analog quantum computing framework with specific parameterization design at the analog signal (pulse) level to better exploit near-term quantum devices via variational methods. We further propose a scalable approach to estimate the gradients of quantum dynamics using a forward pass with Monte Carlo sampling, which leads to a quantum stochastic gradient descent algorithm for scalable gradient-based training in our framework. Applying our framework to quantum optimization and control, we observe a significant advantage of differentiable analog quantum computing against SOTAs based on parameterized digital quantum circuits by orders of magnitude.
+abstract: We present a method for learning geometry and physics parameters of a dynamic scene requiring only a monocular RGB video. Our approach uses a hybrid representation of neural fields and hexahedra mesh, enabling objects in the scene to be interactively edited, and synthesized from novel views. To decouple the learning of underlying scene geometry from dynamic motion, we learn a time-invariant signed distance function which serves as a reference frame, as well as an associated deformation field that is conditioned on each time step. We design a two-way conversion between the neural field and corresponding mesh representation, which allows us to bridge the neural representation with a differentiable physics simulator, and therefore estimate physics parameters from the source video, by minimizing a cycle consistency loss. This flexible, hybrid representation also allows a user to easily edit 3D objects from the source video by directly editing the recovered hexahedra mesh, and propagating this operation back to the neural field. In Experiments, our method achieves higher-quality mesh and video reconstruction of dynamic scenes compared to other competitive Neural Field methods.  Finally, we provide extensive examples which demonstrate our method’s ability to extract useful 3D representations of dynamic scenes from videos captured with consumer-grade cameras.
 slides: ""
 url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - Jiaqi Leng*
-  - Yuxiang Peng*
   - Yi-Ling Qiao*
+  - Alexander Gao*
   - Ming C. Lin
-  - Xiaodi Wu
 author_notes: []
 publication: Accepted by NeurIPS 2022, Coming Soon
 summary: ""
@@ -18,7 +16,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: Differentiable Analog Quantum Computing for Optimization and Control
+title: NeuPhysics - Editable Neural Geometry and Physics from Monocular Videos
 doi: ""
 featured: false
 tags: []
