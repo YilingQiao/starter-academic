@@ -1,7 +1,7 @@
 ---
 abstract: We present a method for learning geometry and physics parameters of a dynamic scene requiring only a monocular RGB video. Our approach uses a hybrid representation of neural fields and hexahedra mesh, enabling objects in the scene to be interactively edited, and synthesized from novel views. To decouple the learning of underlying scene geometry from dynamic motion, we learn a time-invariant signed distance function which serves as a reference frame, as well as an associated deformation field that is conditioned on each time step. We design a two-way conversion between the neural field and corresponding mesh representation, which allows us to bridge the neural representation with a differentiable physics simulator, and therefore estimate physics parameters from the source video, by minimizing a cycle consistency loss. This flexible, hybrid representation also allows a user to easily edit 3D objects from the source video by directly editing the recovered hexahedra mesh, and propagating this operation back to the neural field. In Experiments, our method achieves higher-quality mesh and video reconstruction of dynamic scenes compared to other competitive Neural Field methods.  Finally, we provide extensive examples which demonstrate our method’s ability to extract useful 3D representations of dynamic scenes from videos captured with consumer-grade cameras.
 slides: ""
-url_pdf: "https://drive.google.com/file/d/1rGExa0g7HOnd7RdcwZTY_deGhz4aPQcl/view?usp=sharing"
+url_pdf: "https://drive.google.com/file/d/1zi_pKAR9tQ3XYQV4dkFF6eAh2n9kEoHI/view?usp=sharing"
 publication_types:
   - "1"
 authors:
