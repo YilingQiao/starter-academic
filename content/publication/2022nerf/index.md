@@ -15,7 +15,7 @@ url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
-url_video: ""
+url_video: "https://youtu.be/Eklh1pIAri0"
 title: NeuPhysics - Editable Neural Geometry and Physics from Monocular Videos
 doi: ""
 featured: false
