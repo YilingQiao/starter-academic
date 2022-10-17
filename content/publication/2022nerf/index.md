@@ -11,8 +11,8 @@ authors:
 author_notes: []
 publication: NeurIPS 2022
 summary: ""
-url_dataset: ""
-url_project: ""
+url_dataset: "https://drive.google.com/drive/folders/1PGHkcNolUZ3ld_e5jFtr8OB5_EMWB4sR"
+url_project: "https://sites.google.com/view/neuphysics/home"
 publication_short: ""
 url_source: ""
 url_video: "https://youtu.be/Eklh1pIAri0"
@@ -29,7 +29,7 @@ date: 2022-09-15T00:00:00Z
 url_slides: ""
 publishDate: 2022-09-15T00:00:00Z
 url_poster: ""
-url_code: "https://github.com/YilingQiao/NeuPhysics"
+url_code: "https://github.com/gaoalexander/neuphysics"
 ---
 
 {{% callout note %}}
