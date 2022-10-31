@@ -1,7 +1,7 @@
 ---
 abstract: We introduce a novel differentiable hybrid traffic simulator, which simulates traffic using a hybrid model of both macroscopic and microscopic models and can be directly integrated into a neural network for traffic control and flow optimization. This is the first differentiable traffic simulator for macroscopic and hybrid models that can compute gradients for traffic states across time steps and inhomogeneous lanes. To compute the gradient flow between two types of traffic models in a hybrid framework, we present a novel intermediate conversion component that bridges the lanes in a differentiable manner as well. We also show that we can use analytical gradients to accelerate the overall process and enhance scalability. Thanks to these gradients, our simulator can provide more efficient and scalable solutions for complex learning and control problems posed in the traffic engineering than other existing algorithms.
 slides: ""
-url_pdf: "https://drive.google.com/file/d/1XEMDuIEQ-NwwjfzSa_nywuoBPFESo9iU/view?usp=sharing"
+url_pdf: "https://arxiv.org/abs/2210.08046"
 publication_types:
   - "1"
 authors:
