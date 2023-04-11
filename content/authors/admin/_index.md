@@ -37,4 +37,4 @@ highlight_name: false
 ---
 I am Yi-Ling Qiao, a fourth-year Ph.D. student in [UMD GAMMA Group ](https://gamma.umd.edu/)advised by [Prof. Ming C. Lin ](https://www.cs.umd.edu/~lin/)at University of Maryland, College Park.
 
-My research interests lie in physically-based simulation, graphics and machine learning. Here is my  [Research Statement ](https://drive.google.com/file/d/1YyvnaUZosZhO9-4AkBYVas1sFKoMompT/view?usp=sharing).
+My research interests lie in physically-based simulation, graphics and machine learning and is supported by  [Meta PhD Fellowship ](https://research.facebook.com/blog/2023/4/announcing-the-2023-meta-research-phd-fellowship-award-winners/). Here is my  [Research Statement ](https://drive.google.com/file/d/1YyvnaUZosZhO9-4AkBYVas1sFKoMompT/view?usp=sharing).
