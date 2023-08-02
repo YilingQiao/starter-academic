@@ -1,5 +1,5 @@
 ---
-abstract: Coming soon (camera-ready paper, code, video, and data).
+abstract: Full paper, code, video, and data will be ready soon.
 slides: ""
 url_pdf: ""
 publication_types:
