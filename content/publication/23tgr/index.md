@@ -1,25 +1,19 @@
 ---
-abstract: Embedding polygonal mesh assets within photorealistic Neural Radience Fields (NeRF) volumes, such that they can be rendered and their dynamics simulated in a physically consistent manner with the NeRF, is under-explored from the system perspective of integrating NeRF into the traditional graphics pipeline. This paper designs a two-way coupling between mesh and NeRF during rendering and simulation. We first review the light transport equations for both mesh and NeRF, then distill them into a straightforward algorithm for updating radiance and throughput along a cast ray with an arbitrary number of bounces. To resolve the discrepancy between the linear color space that the path tracer assumes, versus the sRGB color space that standard NeRF uses, we train NeRF with High Dynamic Range (HDR) images. We also present a strategy to estimate light sources and cast shadows on the NeRF. Finally, we consider how the hybrid surface-volumetric formulation can be efficiently integrated with a high-performance physics simulator that supports cloth, rigid and soft bodies. The full rendering and simulation system can be run on a GPU at interactive rates. We show that a hybrid system approach outperforms alternatives in visual realism for mesh insertion, because it allows realistic light transport from volumetric NeRF media onto surfaces, which affects the appearance of reflective/refractive surfaces and illumination of diffuse surfaces informed by the scene.
+abstract: We have witnessed very impressive progress in large-scale and multi-modal foundation/generative models in recent months. We believe making use of such models in a reasonable way could really enable robots to acquire diverse skills. In the recent white paper, we discussed how we can automate the whole pipeline for robotic skill learning, from low-level asset generation, texture generation, to high-level scene, task and reward generation. Once we obtain such a diverse suite of tasks and environments, we can offload policy training to RL of trajectory optimization to solve all the generated low-level tasks, and finally distill all the learned closed-loop policy into a unified policy model. Apart from scaling up in simulation, how to use real-world data more effectively is another promising research direction. Real-world human demonstrations can be found at scale, but typically only provides spatial trajectory information and doesn’t advise how to recover from error compounding during policy rollout. Motivated by these observations and thoughts, this workshop seeks to discuss and compare the advantages and limitations of different paradigms for scaling up skill learning - scaling up simulation, leveraging generative models, exploiting unstructured passive human demonstration, scaling up structured demonstration collection in the real world, etc. 
 slides: ""
-url_pdf: "https://arxiv.org/abs/2309.04581"
+url_pdf: "https://arxiv.org/abs/2305.10455"
 publication_types:
   - "1"
 authors:
-  - Yi-Ling Qiao
-  - Alexander Gao
-  - Yiran Xu
-  - Yue Feng
-  - Jia-Bin Huang
-  - Ming C. Lin
 author_notes: []
-publication: ICCV 2023
+publication: CoRL 2023 Workshop Organizer
 summary: ""
 url_dataset: ""
-url_project: "https://mesh-aware-rf.github.io/"
+url_project: "https://generalist-robots.github.io/"
 publication_short: ""
 url_source: ""
 url_video: ""
-title: Dynamic Mesh-Aware Radiance Fields
+title: Towards Generalist Robots - Learning Paradigms for Scalable Skill Acquisition
 doi: ""
 featured: false
 tags: []
@@ -28,11 +22,11 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2023-08-01T00:00:00Z
+date: 2023-11-01T00:00:00Z
 url_slides: ""
-publishDate: 2023-08-01T00:00:00Z
+publishDate: 2023-11-01T00:00:00Z
 url_poster: ""
-url_code: "https://mesh-aware-rf.github.io/"
+url_code: ""
 ---
 
 {{% callout note %}}
