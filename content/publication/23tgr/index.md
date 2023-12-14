@@ -5,6 +5,18 @@ url_pdf: "https://arxiv.org/abs/2305.10455"
 publication_types:
   - "1"
 authors:
+  - Zhou Xian
+  - Theophile Gervet
+  - Zhenjia Xu
+  - Yi-Ling Qiao
+  - Tsun-Hsuan Wang
+  - Yian Wang
+  - Chen Wang
+  - Katerina Fragkiadaki
+  - David Held
+  - Chris Atkeson
+  - Josh Tenenbaum
+  - Daniela Rus
 author_notes: []
 publication: CoRL 2023 Workshop Organizer
 summary: ""
