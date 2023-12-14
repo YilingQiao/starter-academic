@@ -6,6 +6,11 @@ url_pdf: "https://openreview.net/pdf?id=oFaLc6fHSt"
 publication_types:
   - "1"
 authors:
+  - Sanghyun Son
+  - Laura Yu Zheng
+  - Ryan Sullivan
+  - Yi-Ling Qiao
+  - Ming C. Lin
 author_notes: []
 publication: NeurIPS 2023
 summary: ""
