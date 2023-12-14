@@ -1,19 +1,20 @@
 ---
-abstract: We have witnessed very impressive progress in large-scale and multi-modal foundation/generative models in recent months. We believe making use of such models in a reasonable way could really enable robots to acquire diverse skills. In the recent white paper, we discussed how we can automate the whole pipeline for robotic skill learning, from low-level asset generation, texture generation, to high-level scene, task and reward generation. Once we obtain such a diverse suite of tasks and environments, we can offload policy training to RL of trajectory optimization to solve all the generated low-level tasks, and finally distill all the learned closed-loop policy into a unified policy model. Apart from scaling up in simulation, how to use real-world data more effectively is another promising research direction. Real-world human demonstrations can be found at scale, but typically only provides spatial trajectory information and doesn’t advise how to recover from error compounding during policy rollout. Motivated by these observations and thoughts, this workshop seeks to discuss and compare the advantages and limitations of different paradigms for scaling up skill learning - scaling up simulation, leveraging generative models, exploiting unstructured passive human demonstration, scaling up structured demonstration collection in the real world, etc. 
+abstract: We introduce a novel policy learning method that integrates analytical gradients from differentiable environments with the Proximal Policy Optimization (PPO) algorithm. To incorporate analytical gradients into the PPO framework, we introduce the concept of an α-policy that stands as a locally superior policy. By adaptively modifying the α value, we can effectively manage the influence of analytical policy gradients during learning. To this end, we suggest metrics for assessing the variance and bias of analytical gradients, reducing dependence on these gradients when high variance or bias is detected. Our proposed approach outperforms baseline algorithms in various scenarios, such as function optimization, physics simulations, and traffic control environments. Our code can be found
+online: https://github.com/SonSang/gippo.
 slides: ""
-url_pdf: "https://arxiv.org/abs/2305.10455"
+url_pdf: "https://openreview.net/pdf?id=oFaLc6fHSt"
 publication_types:
   - "1"
 authors:
 author_notes: []
-publication: CoRL 2023 Workshop Organizer
+publication: NeurIPS 2023
 summary: ""
 url_dataset: ""
-url_project: "https://generalist-robots.github.io/"
+url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: Towards Generalist Robots - Learning Paradigms for Scalable Skill Acquisition
+title: Gradient Informed Proximal Policy Optimization
 doi: ""
 featured: false
 tags: []
@@ -22,11 +23,11 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2023-11-01T00:00:00Z
+date: 2023-12-01T00:00:00Z
 url_slides: ""
-publishDate: 2023-11-01T00:00:00Z
+publishDate: 2023-12-01T00:00:00Z
 url_poster: ""
-url_code: ""
+url_code: "https://github.com/SonSang/gippo"
 ---
 
 {{% callout note %}}
