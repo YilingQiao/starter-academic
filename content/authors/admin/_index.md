@@ -43,7 +43,7 @@ My research is about physically-based simulation, graphics and machine learning 
 
 
 Software:
-+ Differentiable physics: 
++ Differentiable simulation: 
   - [differentiable rigid body and cloth simulation](https://github.com/YilingQiao/diffsim) 
   - [differentiable articulated body simulation](https://github.com/YilingQiao/diffarticulated) 
   - [differentiable soft body simulation](https://github.com/YilingQiao/diff_fem) 
