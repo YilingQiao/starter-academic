@@ -35,7 +35,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am Yi-Ling Qiao, a fifth-year Ph.D. student in [UMD GAMMA Group](https://gamma.umd.edu/) advised by [Prof. Ming C. Lin](https://www.cs.umd.edu/~lin/) at University of Maryland, College Park. During my undergraduate years, I was advised by [Prof. Lin Gao](http://geometrylearning.com/lin/) and [Prof. Xilin Chen](https://people.ucas.ac.cn/~0004799?language=en).
+I am Yi-Ling Qiao (pronunced as "Yee-ling Chee-ow"), a fifth-year Ph.D. student in [UMD GAMMA Group](https://gamma.umd.edu/) advised by [Prof. Ming C. Lin](https://www.cs.umd.edu/~lin/) at University of Maryland, College Park. During my undergraduate years, I was advised by [Prof. Lin Gao](http://geometrylearning.com/lin/) and [Prof. Xilin Chen](https://people.ucas.ac.cn/~0004799?language=en).
 
 
 
