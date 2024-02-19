@@ -46,12 +46,12 @@ Software:
 + Differentiable physics: 
   - [differentiable rigid body and cloth simulation](https://github.com/YilingQiao/diffsim) 
   - [differentiable articulated body simulation](https://github.com/YilingQiao/diffarticulated) 
-  - [soft body](https://github.com/YilingQiao/diff_fem) 
+  - [differentiable soft body simulation](https://github.com/YilingQiao/diff_fem) 
   - [differentiable traffic simulation](https://github.com/SonSang/diff-hybrid-traffic-sim)
   - [differentiable analog quantum computing](https://github.com/YilingQiao/diffquantum)
   - [graident-informed PPO](https://github.com/SonSang/diff-hybrid-traffic-sim)
 + Simulation + NeRF: 
   - [NeRF and FEM](https://github.com/gaoalexander/neuphysics)
-  - [NeRF and MPM](https://github.com/xuan-li/PAC-NeRF)-
+  - [NeRF and MPM](https://github.com/xuan-li/PAC-NeRF)
   - [hybrid mesh and NeRF simulation+rendering](https://github.com/YilingQiao/DMRF)
 
