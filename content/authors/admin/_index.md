@@ -53,5 +53,5 @@ Software:
 + Simulation + NeRF: 
   - [NeRF and FEM](https://github.com/gaoalexander/neuphysics)
   - [NeRF and MPM](https://github.com/xuan-li/PAC-NeRF)
-  - [hybrid mesh and NeRF simulation+rendering](https://github.com/YilingQiao/DMRF)
+  - [Dynamic mesh-aware NeRF](https://github.com/YilingQiao/DMRF)
 
