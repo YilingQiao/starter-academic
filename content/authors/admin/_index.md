@@ -49,7 +49,7 @@ Software:
   - [differentiable soft body simulation](https://github.com/YilingQiao/diff_fem) 
   - [differentiable traffic simulation](https://github.com/SonSang/diff-hybrid-traffic-sim)
   - [differentiable analog quantum computing](https://github.com/YilingQiao/diffquantum)
-  - [graident-informed PPO](https://github.com/SonSang/diff-hybrid-traffic-sim)
+  - [graident-informed PPO](https://github.com/SonSang/gippo)
 + Simulation + NeRF: 
   - [NeRF and FEM](https://github.com/gaoalexander/neuphysics)
   - [NeRF and MPM](https://github.com/xuan-li/PAC-NeRF)
