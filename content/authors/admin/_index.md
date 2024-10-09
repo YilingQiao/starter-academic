@@ -39,7 +39,7 @@ I am Yi-Ling Qiao, a fifth-year Ph.D. student in [UMD GAMMA Group](https://gamma
 
 
 
-My research is about physically-based simulation, graphics and machine learning and is supported by [Meta PhD Fellowship](https://research.facebook.com/blog/2023/4/announcing-the-2023-meta-research-phd-fellowship-award-winners/) (AR/VR Computer Graphics Track). Here is my [Research Statement](https://drive.google.com/file/d/1YyvnaUZosZhO9-4AkBYVas1sFKoMompT/view?usp=sharing).
+My research is about physically-based simulation, graphics and machine learning and is supported by [Meta PhD Fellowship](https://research.facebook.com/blog/2023/4/announcing-the-2023-meta-research-phd-fellowship-award-winners/) (AR/VR Computer Graphics Track). I am honored to have been awarded Larry S. Davis Dissertation Award. Here is my [Research Statement](https://drive.google.com/file/d/1YyvnaUZosZhO9-4AkBYVas1sFKoMompT/view?usp=sharing).
 
 
 Software:
@@ -49,6 +49,7 @@ Software:
   - [differentiable soft body simulation](https://github.com/YilingQiao/diff_fem) 
   - [differentiable traffic simulation](https://github.com/SonSang/diff-hybrid-traffic-sim)
   - [differentiable analog quantum computing](https://github.com/YilingQiao/diffquantum)
+  - [differentiable quantum computing for LQR](https://github.com/YilingQiao/diff_lqr)
   - [graident-informed PPO](https://github.com/SonSang/gippo)
 + Simulation + NeRF: 
   - [NeRF and FEM](https://github.com/gaoalexander/neuphysics)
