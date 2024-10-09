@@ -31,7 +31,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2024-2-01T00:00:00Z
+date: 2024-02-01T00:00:00Z
 url_slides: ""
 publishDate: 2024-02-01T00:00:00Z
 url_poster: ""

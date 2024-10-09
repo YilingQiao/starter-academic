@@ -1,28 +1,25 @@
 ---
-abstract: Various heuristic objectives for modeling hand-object interaction have been proposed in past work. However, due to the lack of a cohesive framework, these objectives often possess a narrow scope of applicability and are limited by their efficiency or accuracy. In this paper, we propose HandyPriors, a unified and general pipeline for pose estimation in human-object interaction scenes by leveraging recent advances in differentiable physics and rendering. Our approach employs rendering priors to align with input images and segmentation masks along with physics priors to mitigate penetration and relative-sliding across frames. Furthermore, we present two alternatives for hand and object pose estimation. The optimization-based pose estimation achieves higher accuracy, while the filtering-based tracking, which utilizes the differentiable priors as dynamics and observation models, executes faster. We demonstrate that HandyPriors attains comparable or superior results in the pose estimation task, and that the differentiable physics module can predict contact information for pose refinement. We also show that our approach generalizes to perception tasks, including robotic hand manipulation and human-object pose estimation in the wild. 
+abstract: As industrial models and designs grow increasingly complex, the demand for optimal control of large-scale dynamical systems has significantly increased. However, traditional methods for optimal control incur significant overhead as problem dimensions grow. In this paper, we introduce an end-to-end quantum algorithm for linear-quadratic control with provable speedups. Our algorithm, based on a policy gradient method, incorporates a novel quantum subroutine for solving the matrix Lyapunov equation. Specifically, we build a quantum-assisted differentiable simulator for efficient gradient estimation that is more accurate and robust than classical methods relying on stochastic approximation. Compared to the classical approaches, our method achieves a super-quadratic speedup. To the best of our knowledge, this is the first end-to-end quantum application to linear control problems with provable quantum advantage.
 slides: ""
-url_pdf: "https://arxiv.org/abs/2311.16552"
+url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - Shutong Zhang
+  - Connor Clayton
+  - Jiaqi Leng
+  - Gengzhi Yang
   - Yi-Ling Qiao
-  - Guanglei Zhu
-  - Eric Heiden
-  - Dylan Turpin
-  - Jingzhou Liu
   - Ming Lin
-  - Miles Macklin
-  - Animesh Garg
+  - Xiaodi Wu
 author_notes: []
-publication: ICRA 2024
+publication: NeurIPS 2024
 summary: ""
 url_dataset: ""
-url_project: "https://handypriors.github.io/"
+url_project: ""
 publication_short: ""
-url_source: ""
+url_source: "https://github.com/YilingQiao/diff_lqr"
 url_video: ""
-title: HandyPriors - Physically Consistent Perception of Hand-Object Interactions with Differentiable Priors
+title: Differentiable Quantum Computing for Large-scale Linear Control
 doi: ""
 featured: false
 tags: []
@@ -31,9 +28,9 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2024-2-01T00:00:00Z
+date: 2024-10-01T00:00:00Z
 url_slides: ""
-publishDate: 2024-02-01T00:00:00Z
+publishDate: 2024-10-01T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
