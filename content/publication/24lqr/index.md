@@ -17,7 +17,7 @@ summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
-url_source: "https://github.com/YilingQiao/diff_lqr"
+url_source: ""
 url_video: ""
 title: Differentiable Quantum Computing for Large-scale Linear Control
 doi: ""
@@ -32,7 +32,7 @@ date: 2024-10-01T00:00:00Z
 url_slides: ""
 publishDate: 2024-10-01T00:00:00Z
 url_poster: ""
-url_code: ""
+url_code: "https://github.com/YilingQiao/diff_lqr"
 ---
 
 {{% callout note %}}

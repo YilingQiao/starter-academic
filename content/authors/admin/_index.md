@@ -39,7 +39,7 @@ I am Yi-Ling Qiao, a fifth-year Ph.D. student in [UMD GAMMA Group](https://gamma
 
 
 
-My research is about physically-based simulation, graphics and machine learning and is supported by [Meta PhD Fellowship](https://research.facebook.com/blog/2023/4/announcing-the-2023-meta-research-phd-fellowship-award-winners/) (AR/VR Computer Graphics Track). I am honored to have been awarded Larry S. Davis Dissertation Award. Here is my [Research Statement](https://drive.google.com/file/d/1YyvnaUZosZhO9-4AkBYVas1sFKoMompT/view?usp=sharing).
+My research is about physically-based simulation, graphics and machine learning and is supported by [Meta PhD Fellowship](https://research.facebook.com/blog/2023/4/announcing-the-2023-meta-research-phd-fellowship-award-winners/) (AR/VR Computer Graphics Track). I am honored to have been awarded [Larry S. Davis Dissertation Award](https://www.cs.umd.edu/article/2024/10/two-phd-students-receive-larry-s-davis-doctoral-dissertation-award). Here is my [Research Statement](https://drive.google.com/file/d/1YyvnaUZosZhO9-4AkBYVas1sFKoMompT/view?usp=sharing).
 
 
 Software:
