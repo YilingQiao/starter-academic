@@ -35,15 +35,16 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am Yi-Ling Qiao, a fifth-year Ph.D. student in [UMD GAMMA Group](https://gamma.umd.edu/) advised by [Prof. Ming C. Lin](https://www.cs.umd.edu/~lin/) at University of Maryland, College Park. During my undergraduate years, I was advised by [Prof. Lin Gao](http://geometrylearning.com/lin/) and [Prof. Xilin Chen](https://people.ucas.ac.cn/~0004799?language=en).
+I am Yi-Ling Qiao. I earned my PhD in Computer Science from the University of Maryland, College Park, where I was advised by Prof. Ming Lin. I was previously a member of [UMD GAMMA Group](https://gamma.umd.edu/). During my undergraduate years, I was advised by [Prof. Lin Gao](http://geometrylearning.com/lin/) and [Prof. Xilin Chen](https://people.ucas.ac.cn/~0004799?language=en).
 
 
 
-My research is about physically-based simulation, graphics and machine learning and is supported by [Meta PhD Fellowship](https://research.facebook.com/blog/2023/4/announcing-the-2023-meta-research-phd-fellowship-award-winners/) (AR/VR Computer Graphics Track). I am honored to have been awarded [Larry S. Davis Dissertation Award](https://www.cs.umd.edu/article/2024/10/two-phd-students-receive-larry-s-davis-doctoral-dissertation-award). Here is my [Research Statement](https://drive.google.com/file/d/1YyvnaUZosZhO9-4AkBYVas1sFKoMompT/view?usp=sharing).
+My research is about physically-based simulation, graphics and machine learning and was supported by [Meta PhD Fellowship](https://research.facebook.com/blog/2023/4/announcing-the-2023-meta-research-phd-fellowship-award-winners/) (AR/VR Computer Graphics Track). I am honored to have been awarded [Larry S. Davis Dissertation Award](https://www.cs.umd.edu/article/2024/10/two-phd-students-receive-larry-s-davis-doctoral-dissertation-award). We recently released [Genesis](https://genesis-embodied-ai.github.io/), a generative world designed for general-purpose robotics and embodied AI learning. Here is my [Research Statement](https://drive.google.com/file/d/1YyvnaUZosZhO9-4AkBYVas1sFKoMompT/view?usp=sharing).
 
 
 Software:
 + Differentiable simulation: 
+  - [Genesis](https://github.com/Genesis-Embodied-AI/Genesis) 
   - [differentiable rigid body and cloth simulation](https://github.com/YilingQiao/diffsim) 
   - [differentiable articulated body simulation](https://github.com/YilingQiao/diffarticulated) 
   - [differentiable soft body simulation](https://github.com/YilingQiao/diff_fem) 
