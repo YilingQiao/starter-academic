@@ -39,7 +39,7 @@ I am Yi-Ling Qiao. I earned my PhD in Computer Science from the University of Ma
 
 
 
-My research is about physically-based simulation, graphics and machine learning and was supported by [Meta PhD Fellowship](https://research.facebook.com/blog/2023/4/announcing-the-2023-meta-research-phd-fellowship-award-winners/) (AR/VR Computer Graphics Track). I am honored to have been awarded [Larry S. Davis Dissertation Award](https://www.cs.umd.edu/article/2024/10/two-phd-students-receive-larry-s-davis-doctoral-dissertation-award). We recently released [Genesis](https://genesis-embodied-ai.github.io/), a generative world designed for general-purpose robotics and embodied AI learning. Here is my [Research Statement](https://drive.google.com/file/d/1YyvnaUZosZhO9-4AkBYVas1sFKoMompT/view?usp=sharing).
+My research focuses on physically-based simulation, computer graphics, and machine learning, and has been supported by the [Meta PhD Fellowship](https://research.facebook.com/blog/2023/4/announcing-the-2023-meta-research-phd-fellowship-award-winners/) (AR/VR Computer Graphics Track). I am honored to have been awarded [Larry S. Davis Dissertation Award](https://www.cs.umd.edu/article/2024/10/two-phd-students-receive-larry-s-davis-doctoral-dissertation-award). Recently, we introduced [Genesis](https://genesis-embodied-ai.github.io/), a generative world designed for general-purpose robotics and embodied AI. Below is my [Research Statement](https://drive.google.com/file/d/1YyvnaUZosZhO9-4AkBYVas1sFKoMompT/view?usp=sharing).
 
 
 Software:
