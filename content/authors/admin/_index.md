@@ -35,7 +35,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am Yi-Ling Qiao. I earned my PhD in Computer Science from the University of Maryland, College Park, where I was advised by Prof. Ming Lin. I was previously a member of [UMD GAMMA Group](https://gamma.umd.edu/). During my undergraduate years, I was advised by [Prof. Lin Gao](http://geometrylearning.com/lin/) and [Prof. Xilin Chen](https://people.ucas.ac.cn/~0004799?language=en).
+Hi! This is Yiling Qiao. I earned my PhD in Computer Science from the University of Maryland, College Park, where I was advised by Prof. Ming Lin. I was previously a member of [UMD GAMMA Group](https://gamma.umd.edu/). During my undergraduate years, I was advised by [Prof. Lin Gao](http://geometrylearning.com/lin/) and [Prof. Xilin Chen](https://people.ucas.ac.cn/~0004799?language=en).
 
 
 
