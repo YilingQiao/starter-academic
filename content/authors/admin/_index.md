@@ -7,7 +7,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: yilingq@umd.edu
+    link: yilingpublic@gmail.com
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=ghpLm2cAAAAJ&hl=en
@@ -35,7 +35,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Hi! This is Yiling Qiao. I earned my PhD in Computer Science from the University of Maryland, College Park, where I was advised by Prof. Ming Lin. I was previously a member of [UMD GAMMA Group](https://gamma.umd.edu/). During my undergraduate years, I was advised by [Prof. Lin Gao](http://geometrylearning.com/lin/) and [Prof. Xilin Chen](https://people.ucas.ac.cn/~0004799?language=en).
+Hi! This is Yiling Qiao. I earned my PhD in Computer Science from the University of Maryland, College Park, where I was advised by [Prof. Ming Lin](https://www.cs.umd.edu/people/lin). I was previously a member of [UMD GAMMA Group](https://gamma.umd.edu/). During my undergraduate years, I was advised by [Prof. Lin Gao](http://geometrylearning.com/lin/) and [Prof. Xilin Chen](https://people.ucas.ac.cn/~0004799?language=en).
 
 
 
