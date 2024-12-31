@@ -7,7 +7,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: yilingpublic@gmail.com
+    link: yiling.qqq@gmail.com
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=ghpLm2cAAAAJ&hl=en
